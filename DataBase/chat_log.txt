@@ -1,0 +1,14 @@
+You : Hello
+Jarvis : Hello Sir, how are you?
+You : I am fine
+Jarvis : Good to hear that sir.
+You : How are you?
+Jarvis : Nothing oit of the ordinary, Thanks for asking sir.
+You : who is elon musk 
+Jarvis : Elon Musk is an entrepreneur and business magnate who co-founded PayPal and Tesla Motors. He also founded SpaceX, and is now working on developing the Hyperloop.
+You :  
+Jarvis : Elon Musk is an entrepreneur and business magnate who co-founded PayPal and Tesla Motors. He also founded SpaceX, and is now working on developing the Hyperloop.
+You :  
+Jarvis : Is there anything else you would like to know?
+You :  
+Jarvis : Is there anything else you would like to know?
