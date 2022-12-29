@@ -1,9 +1,10 @@
 from Brain.AIBrain import ReplyBrain
+from Brain.Qna import QuestionAnswer
 from Body.Listen import MicExecution
-print(">> Starting Jarvis, Wait for a few seconds!")
+print(">> Jarvis is getting ready, wait for a few seconds!")
 from Body.Speak import Speak
 from Features.Clap import Tester
-print(">> Starting Jarvis, Wait for a some seconds!")
+print(">> Jarvis is ready, clap to start!")
 
 def MainExecution():
     Speak("Hello Sir")
@@ -11,8 +12,17 @@ def MainExecution():
     while True:
         Data = MicExecution()
         Data = str(Data)
-        Reply = ReplyBrain(Data)
-        Speak(Reply)
+        
+        if len(Data) < 3:
+            pass
+
+        elif "what is" in Data or "when is" in Data or "where is" in Data or "why is" in Data or "How many" in Data or "how" in Data:
+            Reply = QuestionAnswer(Data)
+            Speak(Reply)
+        
+        else:
+            Reply = ReplyBrain(Data)
+            Speak(Reply)
 
 def ClapDetect():
     query = Tester()

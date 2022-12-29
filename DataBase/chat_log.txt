@@ -12,3 +12,23 @@ You :
 Jarvis : Is there anything else you would like to know?
 You :  
 Jarvis : Is there anything else you would like to know?
+You : What is my name 
+Jarvis : Your name is not programmed into this system.
+You : to me 
+Jarvis : I'm sorry, I don't understand what you mean.
+You : call me 
+Jarvis : Sorry, I don't understand what you mean.
+You : call me principle in vashi 
+Jarvis : Sorry, I don't understand what you mean.
+You : preeti soni hello 
+Jarvis : Hello, my name is Jarvis. How may I help you?
+You :  
+Jarvis : Is there anything else you would like to know?
+You : How many countries are in the world 
+Jarvis : There are 195 countries in the world.
+You :  
+Jarvis : Is there anything else you would like to know?
+You : What is the distance between sun and earth 
+Jarvis : The average distance between the Sun and the Earth is about 93 million miles (149.6 million kilometers).
+You : What is the formula of density 
+Jarvis : The density of an object is its mass per unit volume.
